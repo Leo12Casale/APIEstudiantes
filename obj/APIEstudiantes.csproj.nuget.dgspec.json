@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\leoca\\OneDrive - frc.utn.edu.ar\\Facultad\\5° año\\IAW - Integración de Aplicaciones en Entornos Web\\Práctico\\Práctica API REST Estudiantes\\APIEstudiantes\\APIEstudiantes.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\leoca\\OneDrive - frc.utn.edu.ar\\Facultad\\5° año\\IAW - Integración de Aplicaciones en Entornos Web\\Práctico\\Práctica API REST Estudiantes\\APIEstudiantes\\APIEstudiantes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leoca\\OneDrive - frc.utn.edu.ar\\Facultad\\5° año\\IAW - Integración de Aplicaciones en Entornos Web\\Práctico\\Práctica API REST Estudiantes\\APIEstudiantes\\APIEstudiantes.csproj",
+        "projectName": "APIEstudiantes",
+        "projectPath": "C:\\Users\\leoca\\OneDrive - frc.utn.edu.ar\\Facultad\\5° año\\IAW - Integración de Aplicaciones en Entornos Web\\Práctico\\Práctica API REST Estudiantes\\APIEstudiantes\\APIEstudiantes.csproj",
+        "packagesPath": "C:\\Users\\leoca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leoca\\OneDrive - frc.utn.edu.ar\\Facultad\\5° año\\IAW - Integración de Aplicaciones en Entornos Web\\Práctico\\Práctica API REST Estudiantes\\APIEstudiantes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leoca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
