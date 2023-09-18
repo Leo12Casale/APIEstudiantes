@@ -1,8 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
-
+using Microsoft.AspNetCore.Authorization;
 
 [ApiController]
 [Route("api/estudiantes")]
+[Authorize]
 public class EstudiantesController : ControllerBase
 {
     private static EstudiantesRepository _repository = new EstudiantesRepository();

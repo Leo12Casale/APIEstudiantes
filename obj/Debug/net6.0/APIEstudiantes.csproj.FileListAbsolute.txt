@@ -25,3 +25,37 @@ C:\Users\leoca\OneDrive - frc.utn.edu.ar\Facultad\5° año\IAW - Integración de
 C:\Users\leoca\OneDrive - frc.utn.edu.ar\Facultad\5° año\IAW - Integración de Aplicaciones en Entornos Web\Práctico\Práctica API REST Estudiantes\APIEstudiantes\obj\Debug\net6.0\APIEstudiantes.pdb
 C:\Users\leoca\OneDrive - frc.utn.edu.ar\Facultad\5° año\IAW - Integración de Aplicaciones en Entornos Web\Práctico\Práctica API REST Estudiantes\APIEstudiantes\obj\Debug\net6.0\APIEstudiantes.genruntimeconfig.cache
 C:\Users\leoca\OneDrive - frc.utn.edu.ar\Facultad\5° año\IAW - Integración de Aplicaciones en Entornos Web\Práctico\Práctica API REST Estudiantes\APIEstudiantes\obj\Debug\net6.0\ref\APIEstudiantes.dll
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\bin\Debug\net6.0\appsettings.json
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\bin\Debug\net6.0\APIEstudiantes.exe
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\bin\Debug\net6.0\APIEstudiantes.deps.json
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\bin\Debug\net6.0\APIEstudiantes.runtimeconfig.json
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\bin\Debug\net6.0\APIEstudiantes.dll
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\bin\Debug\net6.0\APIEstudiantes.pdb
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\obj\Debug\net6.0\APIEstudiantes.csproj.AssemblyReference.cache
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\obj\Debug\net6.0\APIEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\obj\Debug\net6.0\APIEstudiantes.AssemblyInfoInputs.cache
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\obj\Debug\net6.0\APIEstudiantes.AssemblyInfo.cs
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\obj\Debug\net6.0\APIEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\obj\Debug\net6.0\APIEstudiantes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\obj\Debug\net6.0\APIEstudiantes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\obj\Debug\net6.0\scopedcss\bundle\APIEstudiantes.styles.css
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\obj\Debug\net6.0\APIEstudiantes.csproj.CopyComplete
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\obj\Debug\net6.0\APIEstudiantes.dll
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\obj\Debug\net6.0\refint\APIEstudiantes.dll
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\obj\Debug\net6.0\APIEstudiantes.pdb
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\obj\Debug\net6.0\APIEstudiantes.genruntimeconfig.cache
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\obj\Debug\net6.0\ref\APIEstudiantes.dll
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leoca\source\repos\APIEstudiantes\APIEstudiantes\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

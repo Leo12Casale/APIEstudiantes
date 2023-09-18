@@ -33,10 +33,10 @@ public class EstudiantesRepository
     public void Actualizar(Estudiante estudiante)
     {
         int id = estudiante.ID;
-        estudiantes[id].Nombre = estudiante.Nombre;
-        estudiantes[id].Apellido = estudiante.Apellido;
-        estudiantes[id].FechaNacimiento = estudiante.FechaNacimiento;
-        estudiantes[id].CorreoElectronico = estudiante.CorreoElectronico;
+        estudiantes[id-1].Nombre = estudiante.Nombre;
+        estudiantes[id-1].Apellido = estudiante.Apellido;
+        estudiantes[id-1].FechaNacimiento = estudiante.FechaNacimiento;
+        estudiantes[id-1].CorreoElectronico = estudiante.CorreoElectronico;
     }
 
     public bool Eliminar(int id)
